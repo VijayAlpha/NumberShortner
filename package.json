@@ -1,0 +1,22 @@
+{
+  "name": "react-number-shortner",
+  "package name": "@VijayAlpha/react-number-shortener",
+  "version": "1.0.3",
+  "description": "A React component that takes a number as a prop and converts it to a short format with a suffix of K, M, or B depending on the number , Eg 12324 => \"12.3k\" , 87132435 \"87.1M\".",
+  "main": "NumberShortener.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [
+    "react",
+    "number",
+    "shortner",
+    "lightweight",
+    "converts"
+  ],
+  "author": "Valpha",
+  "license": "ISC",
+  "publishConfig": {
+    "@VijayAlpha:registry": "https://www.npmjs.com/package/react-number-shortner"
+  }
+}
